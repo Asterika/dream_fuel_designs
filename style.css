@@ -4,16 +4,13 @@
         GENERAL STYLES
 ============================== */
 body {
-  align-items: center;
   background-color: #000000;
   background-image: url('/images/darknightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
-  display: flex;
   font-family: 'Chakra Petch', sans-serif;
   font-size: 3rem;
   height: 100vh;
-  justify-content: center;
   margin: 0 auto;
   width: 100vw;
 }
@@ -79,7 +76,7 @@ ul {
 }
 
 li {
-  /* display: inline; */
-  margin-left: auto;
-  margin-right: auto;
+  display: inline;
+  /* margin-left: auto;
+  margin-right: auto; */
 }
