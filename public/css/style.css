@@ -21,9 +21,13 @@ body {
   margin: 0 auto;
 }
 
+/* .main-img { */
+  /* height: 100%;
+  width: 100%; */
 .main-img {
-  height: 100%;
-  width: 100%;
+    background-image: url("/images/nightsky.jpg");
+    height: 500px;
+    width: 80%;
 }
 
 /* =========================
