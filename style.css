@@ -49,10 +49,15 @@ h1 {
            NAVIGATION
 ============================== */
 /* MAIN NAV  */
-#nav {
+#nav ul {
   background-color: ghostwhite;
+  display: flex;
   height: 13%;
+  justify-content: space-around;
+  list-style: none;
+  margin: 0 2px;
   opacity: 0.5;
+  padding: 0;
   /* padding-left: 10%;
   padding-top: 1.5%; */
   position: fixed;
@@ -69,13 +74,13 @@ h1 {
   text-decoration: none;
 }
 
-ul {
+/* ul {
   align-items: stretch;
   display: flex;
   list-style-type: none;
   margin: 0;
   padding: ;
-}
+} */
 
 li {
   color: #1c306b;
