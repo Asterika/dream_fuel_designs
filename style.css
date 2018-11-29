@@ -14,7 +14,7 @@ body {
 }
 
 .main-img {
-    background-image: url("/images/dream_fuel_sky.jpg");
+    background-image: url("./images/dream_fuel_sky.jpg");
     height: 500px;
     width: 80%;
 }
