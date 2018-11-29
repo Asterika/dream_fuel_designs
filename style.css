@@ -119,9 +119,11 @@ li {
   background-color: gainsboro;
   border: 1px solid #303030;
   color: #303030;
-  height: 15vh;
+  height: 25vh;
+  font-family: 'Nunito', sans-serf;
   font-size: 1.6rem;
   margin-top: 15%;
+  overflow: scroll;
   width: 75vw;
 }
 
