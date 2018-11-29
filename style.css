@@ -9,7 +9,7 @@ body {
   background-image: url('/images/darknightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
-  font-family: 'Chakra Petch', sans-serif;
+  /* font-family: 'Chakra Petch', sans-serif; */
   font-size: 3rem;
   height: 100vh;
   margin: 0 auto;
@@ -38,6 +38,7 @@ body {
 
 h1 {
   color: white;
+  font-family: 'Chakra Petch', sans-serif;
   font-size:5rem;
   /* left: 0; */
   position: absolute;
@@ -55,7 +56,7 @@ h1 {
   display: flex;
   height: 11%;
   justify-content: space-around;
-  list-style: none;
+  list-style-type: none;
   margin: 0 2px;
   opacity: 0.5;
   padding: 0;
@@ -87,6 +88,7 @@ h1 {
 li {
   color: #1c306b;
   display: inline;
+  text-decoration: none;
   /* margin-left: auto;
   margin-right: auto; */
 }
