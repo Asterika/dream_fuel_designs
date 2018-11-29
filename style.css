@@ -91,8 +91,9 @@ li {
 /* ==============================
           MEDIA QUERY
 ============================== */
+/* NOT CURRENTLY WORKING: */
 @media only screen and (max-width : 640px) {
   li {
-    display: block;
+    display: inline-block;
   }
 }
