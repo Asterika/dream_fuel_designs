@@ -56,6 +56,11 @@ h1 {
   z-index: 1;
 }
 
-.links {
+.links > a {
   color: white;
+  display: inline;
+  font-size: 1.8rem;
+  letter-spacing: .1rem;
+  padding: 0 5;
+  text-decoration: none;
 }
