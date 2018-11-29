@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Exo+2:400i');
+@import url('https://fonts.googleapis.com/css?family=Exo+2:400bi&effect=font-effect-3d-float');
 
 /* GENERAL STYLES */
 body {
@@ -25,13 +25,12 @@ body {
 }
 
 h1 {
-  align: center;
   color: white;
   font-size:5rem;
   /* left: 0; */
   position: absolute;
-  text-shadow: 4px 4px 4px #aaa;
-  top: 40%;
+  text-align: center;
+  top: 36%;
   width: 100%;
 }
 
