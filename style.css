@@ -94,6 +94,17 @@ li {
 }
 
 /* ==============================
+           JUMBOTRON
+============================== */
+.jumbotron {
+  color: #303030;
+  background-color: gainsboro;
+  height: 15vh;
+  width: 75vw;
+}
+
+
+/* ==============================
           MEDIA QUERY
 ============================== */
 /* NOT CURRENTLY WORKING: */
