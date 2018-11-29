@@ -3,7 +3,7 @@
 /* GENERAL STYLES */
 body {
   background-color: #000000;
-  background-image: url('/images/purplesky.jpg');
+  background-image: url('/images/nightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
   font-family: 'Exo 2', sans-serif;
@@ -19,7 +19,7 @@ body {
 }
 
 .main-img {
-    background-image: url("./images/purplesky.jpg");
+    background-image: url("./images/nightsky.jpg");
     height: 100vh;
     width: 100vw;
 }
