@@ -13,10 +13,14 @@ body {
   width: 100vw;
 }
 
+.image {
+  position: relative;
+  width: 100%;
+}
+
 .main-img {
     background-image: url("./images/dream_fuel_sky.jpg");
     height: 100vh;
-    position: relative;
     width: 100vw;
 }
 
