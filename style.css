@@ -51,8 +51,8 @@ h1 {
 /* MAIN NAV  */
 #nav {
   background-color: ghostwhite;
-  height: 12%;
-  opacity: 0.7;
+  height: 13%;
+  opacity: 0.5;
   /* padding-left: 10%;
   padding-top: 1.5%; */
   position: fixed;
@@ -63,20 +63,22 @@ h1 {
 .links > a {
   color: black;
   display: flex;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   letter-spacing: .1rem;
   padding: 0 5;
   text-decoration: none;
 }
 
 ul {
+  align-items: stretch;
+  display: flex;
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: ;
 }
 
 li {
-  color: #1C306B;
+  color: #1c306b;
   display: inline;
   /* margin-left: auto;
   margin-right: auto; */
