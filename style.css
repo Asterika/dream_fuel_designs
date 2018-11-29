@@ -3,7 +3,7 @@
 /* GENERAL STYLES */
 body {
   background-color: #000000;
-  background-image: url('/images/starrynight.jpg');
+  background-image: url('/images/darknightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
   font-family: 'Chakra Petch', sans-serif;
@@ -19,7 +19,7 @@ body {
 }
 
 .main-img {
-    background-image: url("./images/starrynight.jpg");
+    background-image: url("./images/darknightsky.jpg");
     height: 100vh;
     width: 100vw;
 }
