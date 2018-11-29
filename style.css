@@ -64,3 +64,14 @@ h1 {
   padding: 0 5;
   text-decoration: none;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  float: left;
+}
