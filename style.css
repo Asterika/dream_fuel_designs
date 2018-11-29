@@ -4,6 +4,10 @@
 /* ==============================
         GENERAL STYLES
 ============================== */
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #000000;
   background-image: url('/images/darknightsky.jpg');
@@ -117,9 +121,9 @@ li {
 .image-jumbotron {
   /* align-self: center; */
   border: 1px solid grey;
-  height: 250px;
+  height: 200px;
   object-fit: contain;
-  width: 250px;
+  width: 200px;
 }
 
 .jumbotron {
