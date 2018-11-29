@@ -120,10 +120,10 @@ li {
 }
 .image-jumbotron {
   /* align-self: center; */
-  border: 1px solid grey;
-  height: 200px;
-  object-fit: contain;
-  width: 200px;
+  border: 1px solid aqua;
+  height: 300px;
+  object-fit: fill;
+  width: 300px;
 }
 
 .jumbotron {
