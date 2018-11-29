@@ -39,7 +39,7 @@ body {
 h1 {
   color: white;
   font-family: 'Chakra Petch', sans-serif;
-  font-size:5rem;
+  font-size: 5rem;
   /* left: 0; */
   position: absolute;
   text-align: center;
@@ -82,7 +82,7 @@ a:link {
 }
 
 a:visited {
-  color: magenta;
+  color: white;
 }
 
 a:hover, a:active {
@@ -108,11 +108,19 @@ li {
 /* ==============================
            JUMBOTRON
 ============================== */
+.container-jumbotron {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 .jumbotron {
+  align-self: center;
   background-color: gainsboro;
   border: 1px solid #303030;
   color: #303030;
   height: 15vh;
+  font-size: 1.6rem;
   width: 75vw;
 }
 
