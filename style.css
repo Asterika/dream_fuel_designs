@@ -109,26 +109,29 @@ li {
            JUMBOTRON
 ============================== */
 .container-jumbotron {
-  align-items: center;
+  /* align-items: center; */
   display: flex;
   flex-direction: row;
   justify-content: center;
 }
-/* .image-jumbotron { */
+.image-jumbotron {
   /* align-self: center; */
-  /* border: 1px solid grey;
-  height: 150px;
-  width: 150px;
-} */
+  border: 1px solid grey;
+  height: 250px;
+  object-fit: contain;
+  width: 250px;
+}
+
 .jumbotron {
   /* align-self: flex-end; */
   background-color: gainsboro;
   border: 1px solid #303030;
   color: #303030;
+  display: flex;
   height: 25vh;
   font-family: 'Nunito', sans-serif;
   font-size: 1.4rem;
-  justify-content: space-around;
+  justify-content: center;
   margin-top: 15%;
   overflow: scroll;
   width: 75vw;
