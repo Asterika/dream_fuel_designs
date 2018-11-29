@@ -1,15 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:400i');
+
 /* GENERAL STYLES */
 body {
-  background-color: #cccccc;
+  background-color: #000000;
   background-image: url('/images/dream_fuel_sky.jpg');
   background-repeat: no-repeat;
-  /* background: url(images/dream_fuel_sky.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; */
+  font-family: 'Exo 2', sans-serif;
+  font-size: 3rem;
   height: 100vh;
   margin: 0 auto;
+  text-shadow: 4px 4px 4px #aaa;
   width: 100vw;
 }
 
