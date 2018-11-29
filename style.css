@@ -13,6 +13,12 @@ body {
   width: 100vw;
 }
 
+.main-img {
+    background-image: url("/images/dream_fuel_sky.jpg");
+    height: 500px;
+    width: 80%;
+}
+
 /* .img-background {
     background-image: url('./images/dream_fuel_sky.jpg');
     object-fit: cover;
