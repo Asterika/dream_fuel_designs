@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Exo+2:300i&effect=3d');
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
 
 /* GENERAL STYLES */
 body {
@@ -6,7 +6,7 @@ body {
   background-image: url('/images/nightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Chakra Petch', sans-serif;
   font-size: 3rem;
   height: 100vh;
   margin: 0 auto;
