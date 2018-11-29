@@ -52,7 +52,7 @@ h1 {
 #nav ul {
   background-color: ghostwhite;
   display: flex;
-  height: 13%;
+  height: 12.5%;
   justify-content: space-around;
   list-style: none;
   margin: 0 2px;
@@ -82,8 +82,17 @@ h1 {
 } */
 
 li {
-  color: black;
+  color: #1c306b;
   display: inline;
   /* margin-left: auto;
   margin-right: auto; */
+}
+
+/* ==============================
+          MEDIA QUERY
+============================== */
+@media only screen and (max-width : 640px) {
+  #nav ul {
+    display: block;
+  }
 }
