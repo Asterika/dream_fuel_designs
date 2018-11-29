@@ -21,11 +21,15 @@ body {
   margin: 0 auto;
 }
 
+.container {
+  display: flex;
+}
+
 /* .main-img { */
   /* height: 100%;
   width: 100%; */
 .main-img {
-    background-image: url("/images/nightsky.jpg");
+    background: url("/images/nightsky.jpg");
     height: 500px;
     width: 80%;
 }
