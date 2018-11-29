@@ -65,7 +65,7 @@ h1 {
 }
 
 .links > a {
-  color: white;
+  color: black;
   display: flex;
   font-size: 1.6rem;
   letter-spacing: .1rem;
@@ -82,7 +82,7 @@ h1 {
 } */
 
 li {
-  color: white;
+  color: black;
   display: inline;
   /* margin-left: auto;
   margin-right: auto; */
