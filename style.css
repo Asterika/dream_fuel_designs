@@ -1,7 +1,7 @@
 /* GENERAL STYLES */
 body {
   background-color: #cccccc;
-  background-image: url('./images/dream_fuel_sky.jpg');
+  background-image: url('/images/dream_fuel_sky.jpg');
   background-repeat: no-repeat;
   /* background: url(images/dream_fuel_sky.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
