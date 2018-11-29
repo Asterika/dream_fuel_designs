@@ -1,0 +1,13 @@
+/* GENERAL STYLES */
+html, body {
+  background: url(images/dream_fuel_sky.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+
+
+/* NAVIGATION */
