@@ -4,15 +4,22 @@
         GENERAL STYLES
 ============================== */
 body {
+  align-items: center;
   background-color: #000000;
   background-image: url('/images/darknightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
+  display: flex;
   font-family: 'Chakra Petch', sans-serif;
   font-size: 3rem;
   height: 100vh;
+  justify-content: center;
   margin: 0 auto;
   width: 100vw;
+}
+
+.container {
+  display: flex;
 }
 
 .image {
@@ -47,8 +54,8 @@ h1 {
 /* MAIN NAV  */
 #nav {
   background-color: ghostwhite;
-  height: 11%;
-  opacity: 0.6;
+  height: 12%;
+  opacity: 0.7;
   /* padding-left: 10%;
   padding-top: 1.5%; */
   position: fixed;
@@ -57,8 +64,8 @@ h1 {
 }
 
 .links > a {
-  color: white;
-  display: inline;
+  color: black;
+  display: flex;
   font-size: 1.8rem;
   letter-spacing: .1rem;
   padding: 0 5;
@@ -72,6 +79,7 @@ ul {
 }
 
 li {
-  display: inline;
-  float: left;
+  /* display: inline; */
+  margin-left: auto;
+  margin-right: auto;
 }
