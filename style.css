@@ -9,7 +9,7 @@ body {
   background-image: url('/images/darknightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
-  /* font-family: 'Chakra Petch', sans-serif; */
+  font-family: 'Chakra Petch', sans-serif;
   font-size: 3rem;
   height: 100vh;
   margin: 0 auto;
