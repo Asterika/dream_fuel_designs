@@ -114,12 +114,12 @@ li {
   flex-direction: row;
   justify-content: center;
 }
-.image-jumbotron {
+/* .image-jumbotron { */
   /* align-self: center; */
-  border: 1px solid grey;
+  /* border: 1px solid grey;
   height: 150px;
   width: 150px;
-}
+} */
 .jumbotron {
   /* align-self: flex-end; */
   background-color: gainsboro;
