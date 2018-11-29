@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
 
-/* GENERAL STYLES */
+/* ==============================
+        GENERAL STYLES
+============================== */
 body {
   background-color: #000000;
   background-image: url('/images/darknightsky.jpg');
@@ -24,6 +26,11 @@ body {
     width: 100vw;
 }
 
+.none {
+  list-style-type: none;
+  text-decoration: none;
+}
+
 h1 {
   color: white;
   font-size:5rem;
@@ -34,10 +41,21 @@ h1 {
   width: 100%;
 }
 
-/* .img-background {
-    background-image: url('./images/dream_fuel_sky.jpg');
-    object-fit: cover;
-} */
+/* ==============================
+           NAVIGATION
+============================== */
+/* MAIN NAV  */
+#nav {
+  background-color: ghostwhite;
+  height: 11%;
+  opacity: 0.6;
+  /* padding-left: 10%;
+  padding-top: 1.5%; */
+  position: fixed;
+  width:100%;
+  z-index: 1;
+}
 
-
-/* NAVIGATION */
+.links {
+  color: white;
+}
