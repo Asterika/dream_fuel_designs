@@ -92,7 +92,7 @@ li {
           MEDIA QUERY
 ============================== */
 @media only screen and (max-width : 640px) {
-  #nav ul {
+  li {
     display: block;
   }
 }
