@@ -69,6 +69,7 @@ h1 {
   background-color: ghostwhite;
   display: flex;
   height: 11%;
+  font-weight: bold;
   justify-content: space-around;
   list-style-type: none;
   margin: 0 2px;
