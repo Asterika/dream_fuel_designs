@@ -13,9 +13,11 @@ body {
   background-image: url('/images/darknightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
+  display: flex;
   font-family: 'Chakra Petch', sans-serif;
   font-size: 3rem;
   height: 100vh;
+  justify-content: center;
   margin: 0 auto;
   width: 100vw;
 }
@@ -124,7 +126,7 @@ li {
   align-self: center;
   border: 1px solid aqua;
   height: 150px;
-  margin-top: 2.5%;
+  margin-top: 1%;
   object-fit: fill;
   width: 250px;
   z-index: 1;
