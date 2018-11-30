@@ -15,7 +15,7 @@ body {
   color: #aaaaaa;
   display: flex;
   font-family: 'Chakra Petch', sans-serif;
-  font-size: 3rem;
+  font-size: 2.6rem;
   height: 100vh;
   justify-content: center;
   margin: 0 auto;
@@ -160,7 +160,7 @@ li {
 ============================== */
 /* NOT CURRENTLY WORKING: */
 @media only screen and (max-width : 640px) {
-  li {
-    display: inline-block;
+  #nav ul {
+    display: block;
   }
 }
