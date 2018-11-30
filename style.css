@@ -127,6 +127,7 @@ li {
   margin-top: 5%;
   object-fit: fill;
   width: 250px;
+  z-index: 1;
 }
 
 .jumbotron {
@@ -142,6 +143,7 @@ li {
   margin-top: 15%;
   overflow: scroll;
   width: 75vw;
+  z-index: 1;
 }
 
 
