@@ -161,6 +161,6 @@ li {
 /* NOT CURRENTLY WORKING: */
 @media only screen and (max-width : 640px) {
   #nav ul {
-    display: block;
+    flex-direction: column;
   }
 }
