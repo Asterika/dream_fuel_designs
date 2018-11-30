@@ -113,12 +113,13 @@ li {
 /* ==============================
            JUMBOTRON
 ============================== */
-/* .container-jumbotron { */
-  /* align-items: center; */
-  /* display: flex;
+.container-jumbotron {
+  align-items: center;
+  display: flex;
   flex-direction: row;
   justify-content: center;
-} */
+}
+
 .image-jumbotron {
   align-self: center;
   border: 1px solid aqua;
