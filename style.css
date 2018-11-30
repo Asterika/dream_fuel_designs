@@ -139,18 +139,18 @@ li {
   /* this guides orientation on vertical axis */
   align-self: flex-start;
   background-color: #f3f3f3;
-  border: 1px solid grey;
+  /* border: 1px solid grey; */
   color: #393f4d;
   display: flex;
   height: 25vh;
   font-family: 'Nunito', sans-serif;
   font-size: 1.4rem;
   justify-content: center;
-  margin-left: 36%;
+  margin-left: 30%;
   margin-top: 15%;
   overflow: scroll;
   padding: 1%;
-  width: 85vw;
+  width: 90vw;
   z-index: 1;
 }
 
