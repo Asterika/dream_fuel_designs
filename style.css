@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #393f4d;
   background-image: url('/images/darknightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
@@ -24,7 +24,7 @@ body {
 
 .navbar {
   display: flex;
-  wdith: 100%;
+  width: 100%;
 }
 
 .image {
@@ -135,7 +135,7 @@ li {
 
 .jumbotron {
   /* align-self: flex-end; */
-  background-color: gainsboro;
+  background-color: #f0f8ff;
   border: 1px solid #303030;
   color: #303030;
   display: flex;
