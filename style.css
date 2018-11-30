@@ -146,11 +146,11 @@ li {
   font-family: 'Nunito', sans-serif;
   font-size: 1.4rem;
   justify-content: center;
-  margin-left: 40%;
+  margin-left: 36%;
   margin-top: 15%;
   overflow: scroll;
   padding: 1%;
-  width: 75vw;
+  width: 85vw;
   z-index: 1;
 }
 
