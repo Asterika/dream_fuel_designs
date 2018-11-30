@@ -24,6 +24,7 @@ body {
 
 .navbar {
   display: flex;
+  width: 100%;
 }
 
 .image {
@@ -144,6 +145,7 @@ li {
   justify-content: center;
   margin-top: 15%;
   overflow: scroll;
+  padding: 1%;
   width: 75vw;
   z-index: 1;
 }
