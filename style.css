@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f0f8ff;
+  background-color: ghostwhite;
   background-image: url('/images/darknightsky.jpg');
   background-repeat: no-repeat;
   color: #aaaaaa;
@@ -146,7 +146,7 @@ li {
   font-family: 'Nunito', sans-serif;
   font-size: 1.4rem;
   justify-content: center;
-  margin-left: 30%;
+  margin-left: 40%;
   margin-top: 15%;
   overflow: scroll;
   padding: 1%;
