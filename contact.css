@@ -1,0 +1,76 @@
+body {
+  background-image: url('./images/purplesky.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+/* ==============================
+           JUMBOTRON
+============================== */
+/* .image-jumbotron {
+  align-self: center;
+  border: 1px solid aqua;
+  height: 150px;
+  margin-top: 1%;
+  margin-left: 2%;
+  object-fit: fill;
+  width: 250px; */
+  /* z-index: 1; */
+/* } */
+
+/* .image-jumbotron {
+  border: 2px inset #393f4d;
+  border-radius: 6px;
+  height: 150px;
+  float: left;
+  margin-left: 2%;
+  margin-top: 0.5%;
+  width: 250px;
+} */
+
+.jumbotron {
+  /* background-color: #f3f3f3; */
+  /* background-color: aliceblue; */
+  background-color: white;
+  border: 2.5px inset #393f4d;
+  border-radius: 6px;
+  color: #393f4d;
+  display: inline-block;
+  height: 55vh;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.4rem;
+  margin-top: 12%;
+  overflow: scroll;
+  padding: 1%;
+  position: absolute;
+  text-align: center;
+  width: 55vw;
+}
+
+.jumbotron-container > div {
+  display: inline-block;
+  margin-left: 22%;
+  text-align: center;
+}
+
+/* ==============================
+          MEDIA QUERY
+============================== */
+/* NOT CURRENTLY WORKING: */
+@media only screen and (max-width : 700px) {
+  #nav {
+    padding-top: 90px;
+  }
+  #nav ul {
+    background-color: transparent;
+    flex-direction: column;
+  }
+  #nav a {
+    font-size: 1.2rem;
+    padding: 0 1;
+  }
+}
