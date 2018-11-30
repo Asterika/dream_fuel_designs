@@ -129,7 +129,7 @@ li {
   border: 1px solid aqua;
   height: 150px;
   margin-top: 1%;
-  margin-left: 20%;
+  margin-left: 2%;
   object-fit: fill;
   width: 250px;
   z-index: 1;
@@ -146,6 +146,7 @@ li {
   font-family: 'Nunito', sans-serif;
   font-size: 1.4rem;
   justify-content: center;
+  margin-left: 20%;
   margin-top: 15%;
   overflow: scroll;
   padding: 1%;
